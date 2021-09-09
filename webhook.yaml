@@ -39,7 +39,7 @@ spec:
         resources:
           - name: app-git
             resourceRef:
-              name: reversewords-git
+              name: reverse-words-git
           - name: app-image
             resourceRef:
               name: reverse-words-image
